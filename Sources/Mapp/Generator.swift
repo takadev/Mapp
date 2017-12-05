@@ -17,7 +17,7 @@ class Generator {
         let r = value + "\n" +
         "＿人人人人人人＿\n" +
         "＞　突然の死　＜\n" +
-        "￣Y^Y^Y^Y^Y￣"
+        "￣Y^Y^Y^Y^Y^Y^￣"
         
         return r
     }
