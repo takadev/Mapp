@@ -1,3 +1,7 @@
 GUISample/Build/
 CLSample/Build/
+Build/
 *.swp
+/.build/
+/Packages
+/*.xcodeproj
