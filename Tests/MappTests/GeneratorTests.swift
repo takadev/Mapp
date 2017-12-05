@@ -1,5 +1,5 @@
 //
-//  GeneraterTests.swift
+//  GeneratorTests.swift
 //  MappPackageDescription
 //
 //  Created by Takahiro Kaneko on 2017/12/05.
