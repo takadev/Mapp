@@ -1,6 +1,6 @@
 //
 //  Generator.swift
-//  MappPackageDescription
+//  Mapp
 //
 //  Created by Takahiro Kaneko on 2017/12/05.
 //

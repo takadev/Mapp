@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import MonoGenerator
+@testable import Mapp
 
 class GeneratorTests: XCTestCase {
     private var target: Generator!
